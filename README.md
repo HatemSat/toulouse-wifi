@@ -1,24 +1,8 @@
-# toulouse-wifi
+# Toulouse-wifi
 
-## Project setup
-```
-npm install
-```
+:fr:
+Trouver un wifi public à Toulouse :point_right: [ici](https://wifitoulouse.fr)
+Base de donnée : Bornes Wi-Fi - Toulouse Métropole, 03/08/2020, sous license ODbL
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+:uk:
+Find closest public free wifi in the city of Toulouse :point_right: [here](https://wifitoulouse.fr)

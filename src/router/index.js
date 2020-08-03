@@ -1,29 +1,55 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Vue from "vue";
+import VueRouter from "vue-router";
+import Home from "../views/Home.vue";
+import Viewmap from "../components/Viewmap.vue";
+import Result from "../components/Result.vue";
+import Confidentialite from "../components/Confidentialite.vue";
+import Mentions from "../components/Mentions.vue";
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
-  const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
-]
+const routes = [
+    {
+        path: "/accueil",
+        name: "Home",
+        component: Home,
+    },
+    {
+        path: "/carte-wifi-localisation",
+        name: "CarteWifiLocalisation",
+        component: Viewmap,
+    },
+    {
+        path: "/carte-wifi",
+        name: "CarteWifi",
+        component: Viewmap,
+    },
+    {
+        path: "/wifi-proche",
+        name: "Result",
+        component: Result,
+    },
+    {
+        path: "/mentions-legales",
+        name: "MentionsLegales",
+        component: Mentions,
+    },
+    {
+        path: "/cookies-confidentialite",
+        name: "CookiesConfidentialite",
+        component: Confidentialite,
+    },
+    {
+        path: "*",
+        redirect: "/accueil",
+        name: "HomeRedirect",
+    },
+];
 
 const router = new VueRouter({
-  mode: 'history',
-  base: process.env.BASE_URL,
-  routes
-})
+    mode: "history",
+    base: process.env.BASE_URL,
+    routes,
+});
 
-export default router
+export default router;
