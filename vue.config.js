@@ -12,6 +12,7 @@ module.exports = {
             name: "Wifi Toulouse",
             short_name: "Wifi Toul",
         },
+        assetsVersion: '0.1.1'
     },
     devServer: {
         disableHostCheck: true,   // That solved it

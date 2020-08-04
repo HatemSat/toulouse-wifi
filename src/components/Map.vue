@@ -59,11 +59,11 @@ export default {
 
     // Set tiles provider
     L.tileLayer(
-      "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
+      "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
       {
         maxZoom: 20,
         attribution:
-          '&copy; Contributeurs <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
+          '&copy; Contributeurs Openstreetmap France | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }
     ).addTo(map);
 
