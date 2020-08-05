@@ -144,5 +144,8 @@ export default {
   .navbar-menu.is-active {
     transform: translateX(0%);
   }
+  .burger span{
+    height: 2px;
+  }
 }
 </style>

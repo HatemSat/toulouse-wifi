@@ -30,7 +30,7 @@ export default {
   align-items: center;
 }
 #map-container {
-  height: 50vh;
+  height: 75vh;
   width: 95vw;
   padding: 5px;
 }

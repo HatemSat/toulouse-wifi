@@ -62,6 +62,7 @@ export default {
       "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
       {
         maxZoom: 20,
+        opacity: 0.6,
         attribution:
           '&copy; Contributeurs Openstreetmap France | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }
@@ -75,15 +76,17 @@ export default {
 
     // Set markers :
     var positionIcon = L.icon({
-      iconUrl: require("../assets/icons/position-marker.png"),
+      iconUrl: require("../assets/icons/position-marker-blue.png"),
       iconSize: [35, 40],
       iconAnchor: [18, 40],
     });
+
     var wifiIcon = L.icon({
-      iconUrl: require("../assets/icons/wifi-closest-marker.png"),
+      iconUrl: require("../assets/icons/wifi-marker-blue.png"),
       iconSize: [35, 40],
       iconAnchor: [18, 40],
     });
+    
     var otherWifiIcon = L.icon({
       iconUrl: require("../assets/icons/wifi-other-marker.png"),
       iconSize: [28, 32],
