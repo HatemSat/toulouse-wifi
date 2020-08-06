@@ -1,4 +1,4 @@
-import wifis from "../assets/wifi.json";
+import wifis from "../assets/wifi2.json";
 
 function getGeoLocation() {
     return new Promise((resolve, reject) => {

@@ -1,7 +1,7 @@
 import Vue from "vue";
 import Vuex from "vuex";
 import * as help from "../helpers/position.js";
-import wifis from "../assets/wifi.json";
+import wifis from "../assets/wifi2.json";
 
 Vue.use(Vuex);
 

@@ -6,19 +6,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place Saint Pierre",
             "site": "Saint-Pierre 2",
-            "geo_point_2d": [43.6037777813, 1.43596389043],
+            "geo_point_2d": [
+                43.6037777813,
+                1.43596389043
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435963890425352, 43.603777781325576]
+                "coordinates": [
+                    1.435963890425352,
+                    43.603777781325576
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43596389043, 43.6037777813]
+            "coordinates": [
+                1.43596389043,
+                43.6037777813
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -29,19 +38,28 @@
             "commune": "TOULOUSE",
             "adresse": "56 Rue d'Alsace Lorraine",
             "site": "Alsace 3",
-            "geo_point_2d": [43.6079166719, 1.44578056164],
+            "geo_point_2d": [
+                43.6079166719,
+                1.44578056164
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.445780561641785, 43.60791667191116]
+                "coordinates": [
+                    1.445780561641785,
+                    43.60791667191116
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44578056164, 43.6079166719]
+            "coordinates": [
+                1.44578056164,
+                43.6079166719
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -52,19 +70,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place Intérieure Saint Cyprien",
             "site": "Saint-Cyprien",
-            "geo_point_2d": [43.5977305547, 1.43133333666],
+            "geo_point_2d": [
+                43.5977305547,
+                1.43133333666
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.43133333666203, 43.597730554688795]
+                "coordinates": [
+                    1.43133333666203,
+                    43.597730554688795
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43133333666, 43.5977305547]
+            "coordinates": [
+                1.43133333666,
+                43.5977305547
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -75,19 +102,28 @@
             "commune": "TOULOUSE",
             "adresse": "37 av Reynerie",
             "site": "Biblioth\u00e8que Grand M",
-            "geo_point_2d": [43.5673583293, 1.40060000389],
+            "geo_point_2d": [
+                43.5673583293,
+                1.40060000389
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.400600003889051, 43.567358329267826]
+                "coordinates": [
+                    1.400600003889051,
+                    43.567358329267826
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.40060000389, 43.5673583293]
+            "coordinates": [
+                1.40060000389,
+                43.5673583293
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -98,19 +134,28 @@
             "commune": "TOULOUSE",
             "adresse": "8 rue du lieuteunant colone",
             "site": "Salle Os\u00e8te - Duranti",
-            "geo_point_2d": [43.6034083345, 1.44683333284],
+            "geo_point_2d": [
+                43.6034083345,
+                1.44683333284
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.446833332838662, 43.603408334521106]
+                "coordinates": [
+                    1.446833332838662,
+                    43.603408334521106
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44683333284, 43.6034083345]
+            "coordinates": [
+                1.44683333284,
+                43.6034083345
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -121,19 +166,28 @@
             "commune": "TOULOUSE",
             "adresse": "All\u00e9e du Pdt F, Roosevelt",
             "site": "Jaur\u00e8s 1",
-            "geo_point_2d": [43.6056560016, 1.44854199994],
+            "geo_point_2d": [
+                43.6056560016,
+                1.44854199994
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.448541999940247, 43.60565600156838]
+                "coordinates": [
+                    1.448541999940247,
+                    43.60565600156838
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44854199994, 43.6056560016]
+            "coordinates": [
+                1.44854199994,
+                43.6056560016
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -144,19 +198,28 @@
             "commune": "TOULOUSE",
             "adresse": "Rue du canon d'Arcole",
             "site": "Palais des sports",
-            "geo_point_2d": [43.6123870018, 1.43530199795],
+            "geo_point_2d": [
+                43.6123870018,
+                1.43530199795
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435301997953726, 43.612387001832396]
+                "coordinates": [
+                    1.435301997953726,
+                    43.612387001832396
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43530199795, 43.6123870018]
+            "coordinates": [
+                1.43530199795,
+                43.6123870018
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -167,19 +230,28 @@
             "commune": "TOULOUSE",
             "adresse": "81 rue St Roch",
             "site": "Maison des Associations",
-            "geo_point_2d": [43.5774789978, 1.44417999653],
+            "geo_point_2d": [
+                43.5774789978,
+                1.44417999653
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.444179996526596, 43.57747899781794]
+                "coordinates": [
+                    1.444179996526596,
+                    43.57747899781794
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44417999653, 43.5774789978]
+            "coordinates": [
+                1.44417999653,
+                43.5774789978
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -190,19 +262,28 @@
             "commune": "TOULOUSE",
             "adresse": "7 all\u00e9es G. Bi\u00e9n\u00e8s",
             "site": "Salle Jean Mermoz",
-            "geo_point_2d": [43.5851470043, 1.43582799443],
+            "geo_point_2d": [
+                43.5851470043,
+                1.43582799443
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435827994425019, 43.58514700432179]
+                "coordinates": [
+                    1.435827994425019,
+                    43.58514700432179
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43582799443, 43.5851470043]
+            "coordinates": [
+                1.43582799443,
+                43.5851470043
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -213,19 +294,28 @@
             "commune": "TOULOUSE",
             "adresse": "63 Chemin HEREDIA",
             "site": "Centre animation Soupeta",
-            "geo_point_2d": [43.6143830025, 1.47450199534],
+            "geo_point_2d": [
+                43.6143830025,
+                1.47450199534
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.474501995341507, 43.61438300253217]
+                "coordinates": [
+                    1.474501995341507,
+                    43.61438300253217
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.47450199534, 43.6143830025]
+            "coordinates": [
+                1.47450199534,
+                43.6143830025
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -236,19 +326,28 @@
             "commune": "TOULOUSE",
             "adresse": "20 RUE D ALSACE LORRAINE",
             "site": "Alsace 2",
-            "geo_point_2d": [43.6023444442, 1.44577499594],
+            "geo_point_2d": [
+                43.6023444442,
+                1.44577499594
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.445774995940189, 43.602344444234724]
+                "coordinates": [
+                    1.445774995940189,
+                    43.602344444234724
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44577499594, 43.6023444442]
+            "coordinates": [
+                1.44577499594,
+                43.6023444442
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -259,19 +358,28 @@
             "commune": "TOULOUSE",
             "adresse": "cours dillon",
             "site": "Cours Dillon 2",
-            "geo_point_2d": [43.5953530004, 1.43613399427],
+            "geo_point_2d": [
+                43.5953530004,
+                1.43613399427
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.436133994268159, 43.59535300035583]
+                "coordinates": [
+                    1.436133994268159,
+                    43.59535300035583
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43613399427, 43.5953530004]
+            "coordinates": [
+                1.43613399427,
+                43.5953530004
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -282,19 +390,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place Arnaud Bernard",
             "site": "Arnaud Bernard",
-            "geo_point_2d": [43.6112694426, 1.43876389249],
+            "geo_point_2d": [
+                43.6112694426,
+                1.43876389249
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.438763892493415, 43.611269442570446]
+                "coordinates": [
+                    1.438763892493415,
+                    43.611269442570446
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43876389249, 43.6112694426]
+            "coordinates": [
+                1.43876389249,
+                43.6112694426
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -305,19 +422,28 @@
             "commune": "TOULOUSE",
             "adresse": "8 bis avenue du parc",
             "site": "MDC Roseraie",
-            "geo_point_2d": [43.6200277747, 1.47010556188],
+            "geo_point_2d": [
+                43.6200277747,
+                1.47010556188
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.470105561882396, 43.62002777465675]
+                "coordinates": [
+                    1.470105561882396,
+                    43.62002777465675
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.47010556188, 43.6200277747]
+            "coordinates": [
+                1.47010556188,
+                43.6200277747
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -328,19 +454,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 place Esquirol",
             "site": "Esquirol 2",
-            "geo_point_2d": [43.6003611092, 1.44381666696],
+            "geo_point_2d": [
+                43.6003611092,
+                1.44381666696
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.443816666957565, 43.60036110920892]
+                "coordinates": [
+                    1.443816666957565,
+                    43.60036110920892
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44381666696, 43.6003611092]
+            "coordinates": [
+                1.44381666696,
+                43.6003611092
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -351,19 +486,28 @@
             "commune": "TOULOUSE",
             "adresse": "place des Pradettes",
             "site": "Pradettes",
-            "geo_point_2d": [43.5814909952, 1.38812199485],
+            "geo_point_2d": [
+                43.5814909952,
+                1.38812199485
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.388121994853366, 43.58149099522055]
+                "coordinates": [
+                    1.388121994853366,
+                    43.58149099522055
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.38812199485, 43.5814909952]
+            "coordinates": [
+                1.38812199485,
+                43.5814909952
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -374,19 +518,28 @@
             "commune": "TOULOUSE",
             "adresse": "38, rue d'Aubuisson",
             "site": "Espace diversit\u00e9s et la\u00ef",
-            "geo_point_2d": [43.6032880001, 1.45314400441],
+            "geo_point_2d": [
+                43.6032880001,
+                1.45314400441
+            ],
             "annee_installation": 2014.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.453144004414432, 43.60328800011149]
+                "coordinates": [
+                    1.453144004414432,
+                    43.60328800011149
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45314400441, 43.6032880001]
+            "coordinates": [
+                1.45314400441,
+                43.6032880001
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -397,19 +550,28 @@
             "commune": "TOULOUSE",
             "adresse": "Avenue Maurice Bourges-Maun",
             "site": "Les jardins du Mus\u00e9um 1",
-            "geo_point_2d": [43.6324090009, 1.45177699612],
+            "geo_point_2d": [
+                43.6324090009,
+                1.45177699612
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.451776996121758, 43.63240900092236]
+                "coordinates": [
+                    1.451776996121758,
+                    43.63240900092236
+                ]
             },
             "zone_emission": "int\u00e9rieur et ext\u00e9r",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45177699612, 43.6324090009]
+            "coordinates": [
+                1.45177699612,
+                43.6324090009
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -420,19 +582,28 @@
             "commune": "TOULOUSE",
             "adresse": "5 Rue Paul Meriel",
             "site": "MDC Centre - M\u00e9riel",
-            "geo_point_2d": [43.6040509939, 1.44795999786],
+            "geo_point_2d": [
+                43.6040509939,
+                1.44795999786
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.447959997864161, 43.6040509938859]
+                "coordinates": [
+                    1.447959997864161,
+                    43.6040509938859
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44795999786, 43.6040509939]
+            "coordinates": [
+                1.44795999786,
+                43.6040509939
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -443,19 +614,28 @@
             "commune": "TOULOUSE",
             "adresse": "6 rue St Jean",
             "site": "Biblioth\u00e8que Fabre",
-            "geo_point_2d": [43.5970055559, 1.44325832211],
+            "geo_point_2d": [
+                43.5970055559,
+                1.44325832211
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.443258322113681, 43.59700555588928]
+                "coordinates": [
+                    1.443258322113681,
+                    43.59700555588928
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44325832211, 43.5970055559]
+            "coordinates": [
+                1.44325832211,
+                43.5970055559
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -466,19 +646,28 @@
             "commune": "TOULOUSE",
             "adresse": "6 Avenue des Ecoles Jules J",
             "site": "Th\u00e9atre Jules Juilen",
-            "geo_point_2d": [43.5741527808, 1.45320278526],
+            "geo_point_2d": [
+                43.5741527808,
+                1.45320278526
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.453202785264897, 43.57415278075246]
+                "coordinates": [
+                    1.453202785264897,
+                    43.57415278075246
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45320278526, 43.5741527808]
+            "coordinates": [
+                1.45320278526,
+                43.5741527808
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -489,19 +678,28 @@
             "commune": "TOULOUSE",
             "adresse": "Promenade Henri Martin",
             "site": "Daurade 3",
-            "geo_point_2d": [43.6010840026, 1.43903400457],
+            "geo_point_2d": [
+                43.6010840026,
+                1.43903400457
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.439034004574326, 43.60108400257225]
+                "coordinates": [
+                    1.439034004574326,
+                    43.60108400257225
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43903400457, 43.6010840026]
+            "coordinates": [
+                1.43903400457,
+                43.6010840026
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -512,19 +710,28 @@
             "commune": "TOULOUSE",
             "adresse": "76 all\u00e9es Charles de Fitte",
             "site": "Mus\u00e9e des abbatoirs",
-            "geo_point_2d": [43.6008199994, 1.42927800106],
+            "geo_point_2d": [
+                43.6008199994,
+                1.42927800106
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.42927800105825, 43.60081999939645]
+                "coordinates": [
+                    1.42927800105825,
+                    43.60081999939645
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.42927800106, 43.6008199994]
+            "coordinates": [
+                1.42927800106,
+                43.6008199994
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -535,19 +742,28 @@
             "commune": "TOULOUSE",
             "adresse": "11 al\u00e9e du Vivarais",
             "site": "Mairie de quartier Ancel",
-            "geo_point_2d": [43.6185159941, 1.39799899571],
+            "geo_point_2d": [
+                43.6185159941,
+                1.39799899571
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.397998995714521, 43.618515994071956]
+                "coordinates": [
+                    1.397998995714521,
+                    43.618515994071956
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.39799899571, 43.6185159941]
+            "coordinates": [
+                1.39799899571,
+                43.6185159941
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -558,19 +774,28 @@
             "commune": "TOULOUSE",
             "adresse": "PL DE LA DAURADE",
             "site": "Daurade",
-            "geo_point_2d": [43.6017138909, 1.43968888424],
+            "geo_point_2d": [
+                43.6017138909,
+                1.43968888424
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.439688884239045, 43.601713890882664]
+                "coordinates": [
+                    1.439688884239045,
+                    43.601713890882664
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43968888424, 43.6017138909]
+            "coordinates": [
+                1.43968888424,
+                43.6017138909
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -581,19 +806,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 ALL JACQUES CHABAN DELMAS",
             "site": "M\u00e9diath\u00e8que Jos\u00e9 Cabanis",
-            "geo_point_2d": [43.6101833257, 1.45585277227],
+            "geo_point_2d": [
+                43.6101833257,
+                1.45585277227
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.455852772272201, 43.61018332571465]
+                "coordinates": [
+                    1.455852772272201,
+                    43.61018332571465
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45585277227, 43.6101833257]
+            "coordinates": [
+                1.45585277227,
+                43.6101833257
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -604,19 +838,28 @@
             "commune": "TOULOUSE",
             "adresse": "Allees Jules Guesde",
             "site": "Jules Guesdes 1",
-            "geo_point_2d": [43.5950861064, 1.4514694385],
+            "geo_point_2d": [
+                43.5950861064,
+                1.4514694385
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.451469438501729, 43.595086106380684]
+                "coordinates": [
+                    1.451469438501729,
+                    43.595086106380684
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4514694385, 43.5950861064]
+            "coordinates": [
+                1.4514694385,
+                43.5950861064
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -627,19 +870,28 @@
             "commune": "TOULOUSE",
             "adresse": "all\u00e9e Paul Feuga",
             "site": "Lafourcade",
-            "geo_point_2d": [43.5926666685, 1.44424167306],
+            "geo_point_2d": [
+                43.5926666685,
+                1.44424167306
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.444241673056776, 43.592666668547714]
+                "coordinates": [
+                    1.444241673056776,
+                    43.592666668547714
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44424167306, 43.5926666685]
+            "coordinates": [
+                1.44424167306,
+                43.5926666685
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -650,19 +902,28 @@
             "commune": "TOULOUSE",
             "adresse": "place Dupuy",
             "site": "Halle aux grains",
-            "geo_point_2d": [43.5999055575, 1.45425277875],
+            "geo_point_2d": [
+                43.5999055575,
+                1.45425277875
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.454252778752512, 43.59990555751754]
+                "coordinates": [
+                    1.454252778752512,
+                    43.59990555751754
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45425277875, 43.5999055575]
+            "coordinates": [
+                1.45425277875,
+                43.5999055575
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -673,19 +934,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place Andr\u00e9 ABBAL",
             "site": "Mairie Reynerie",
-            "geo_point_2d": [43.5705805566, 1.40267500104],
+            "geo_point_2d": [
+                43.5705805566,
+                1.40267500104
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.402675001040658, 43.570580556558106]
+                "coordinates": [
+                    1.402675001040658,
+                    43.570580556558106
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.40267500104, 43.5705805566]
+            "coordinates": [
+                1.40267500104,
+                43.5705805566
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -696,19 +966,28 @@
             "commune": "TOULOUSE",
             "adresse": "All\u00e9e du Pdt F, Roosevelt",
             "site": "Jaur\u00e8s 2",
-            "geo_point_2d": [43.6059079967, 1.44889699673],
+            "geo_point_2d": [
+                43.6059079967,
+                1.44889699673
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.448896996733263, 43.60590799665147]
+                "coordinates": [
+                    1.448896996733263,
+                    43.60590799665147
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44889699673, 43.6059079967]
+            "coordinates": [
+                1.44889699673,
+                43.6059079967
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -719,19 +998,28 @@
             "commune": "TOULOUSE",
             "adresse": "7 port St Sauveur",
             "site": "Port Saint Sauveur",
-            "geo_point_2d": [43.5957939968, 1.45585100133],
+            "geo_point_2d": [
+                43.5957939968,
+                1.45585100133
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.455851001330049, 43.59579399681219]
+                "coordinates": [
+                    1.455851001330049,
+                    43.59579399681219
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45585100133, 43.5957939968]
+            "coordinates": [
+                1.45585100133,
+                43.5957939968
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -742,19 +1030,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place Anatole France",
             "site": "Place Anatole France",
-            "geo_point_2d": [43.606313995, 1.43860599798],
+            "geo_point_2d": [
+                43.606313995,
+                1.43860599798
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.438605997982554, 43.6063139950146]
+                "coordinates": [
+                    1.438605997982554,
+                    43.6063139950146
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43860599798, 43.606313995]
+            "coordinates": [
+                1.43860599798,
+                43.606313995
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -765,19 +1062,28 @@
             "commune": "TOULOUSE",
             "adresse": "17 rue Bellegarde",
             "site": "Centre culturel Bellegar",
-            "geo_point_2d": [43.6086319983, 1.44443200481],
+            "geo_point_2d": [
+                43.6086319983,
+                1.44443200481
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.444432004807761, 43.60863199831566]
+                "coordinates": [
+                    1.444432004807761,
+                    43.60863199831566
+                ]
             },
             "zone_emission": "int\u00e9rieur et ext\u00e9r",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44443200481, 43.6086319983]
+            "coordinates": [
+                1.44443200481,
+                43.6086319983
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -788,19 +1094,28 @@
             "commune": "TOULOUSE",
             "adresse": "13 rue de la Pleau",
             "site": "Mus\u00e9e Paul Dupuy",
-            "geo_point_2d": [43.5969190002, 1.44689200442],
+            "geo_point_2d": [
+                43.5969190002,
+                1.44689200442
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.446892004422136, 43.59691900018422]
+                "coordinates": [
+                    1.446892004422136,
+                    43.59691900018422
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44689200442, 43.5969190002]
+            "coordinates": [
+                1.44689200442,
+                43.5969190002
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -811,19 +1126,28 @@
             "commune": "TOULOUSE",
             "adresse": "rue Yves Rouquette",
             "site": "Accueil Jeunes Bordeblan",
-            "geo_point_2d": [43.5826110015, 1.38881599541],
+            "geo_point_2d": [
+                43.5826110015,
+                1.38881599541
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.388815995410672, 43.58261100149156]
+                "coordinates": [
+                    1.388815995410672,
+                    43.58261100149156
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.38881599541, 43.5826110015]
+            "coordinates": [
+                1.38881599541,
+                43.5826110015
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -834,19 +1158,28 @@
             "commune": "TOULOUSE",
             "adresse": "71 rue du Taur",
             "site": "Taur",
-            "geo_point_2d": [43.6072540026, 1.44208500223],
+            "geo_point_2d": [
+                43.6072540026,
+                1.44208500223
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.442085002229871, 43.60725400263162]
+                "coordinates": [
+                    1.442085002229871,
+                    43.60725400263162
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44208500223, 43.6072540026]
+            "coordinates": [
+                1.44208500223,
+                43.6072540026
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -857,19 +1190,28 @@
             "commune": "TOULOUSE",
             "adresse": "3 rue de Tarfaya",
             "site": "B612 - centre de l'innov",
-            "geo_point_2d": [43.5632709958, 1.48810100308],
+            "geo_point_2d": [
+                43.5632709958,
+                1.48810100308
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.488101003081482, 43.563270995754706]
+                "coordinates": [
+                    1.488101003081482,
+                    43.563270995754706
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.48810100308, 43.5632709958]
+            "coordinates": [
+                1.48810100308,
+                43.5632709958
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -880,19 +1222,28 @@
             "commune": "TOULOUSE",
             "adresse": "PL DU CAPITOLE",
             "site": "Captiole 2",
-            "geo_point_2d": [43.6042972236, 1.443972225],
+            "geo_point_2d": [
+                43.6042972236,
+                1.443972225
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.443972224996524, 43.60429722357893]
+                "coordinates": [
+                    1.443972224996524,
+                    43.60429722357893
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.443972225, 43.6042972236]
+            "coordinates": [
+                1.443972225,
+                43.6042972236
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -903,19 +1254,28 @@
             "commune": "TOULOUSE",
             "adresse": "30 RUE DE METZ",
             "site": "Esquirol/Rue de Metz",
-            "geo_point_2d": [43.6005009984, 1.44565399272],
+            "geo_point_2d": [
+                43.6005009984,
+                1.44565399272
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44565399271881, 43.60050099842557]
+                "coordinates": [
+                    1.44565399271881,
+                    43.60050099842557
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44565399272, 43.6005009984]
+            "coordinates": [
+                1.44565399272,
+                43.6005009984
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -926,19 +1286,28 @@
             "commune": "TOULOUSE",
             "adresse": "place micoulaud",
             "site": "Izard",
-            "geo_point_2d": [43.6382972162, 1.44381944611],
+            "geo_point_2d": [
+                43.6382972162,
+                1.44381944611
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.443819446108237, 43.638297216173704]
+                "coordinates": [
+                    1.443819446108237,
+                    43.638297216173704
+                ]
             },
             "zone_emission": "int\u00e9rieur et ext\u00e9r",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44381944611, 43.6382972162]
+            "coordinates": [
+                1.44381944611,
+                43.6382972162
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -949,19 +1318,28 @@
             "commune": "TOULOUSE",
             "adresse": "21 rue de Metz",
             "site": "Mus\u00e9e des Augustins",
-            "geo_point_2d": [43.6010361084, 1.44632499699],
+            "geo_point_2d": [
+                43.6010361084,
+                1.44632499699
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.446324996986625, 43.60103610843603]
+                "coordinates": [
+                    1.446324996986625,
+                    43.60103610843603
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44632499699, 43.6010361084]
+            "coordinates": [
+                1.44632499699,
+                43.6010361084
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -972,19 +1350,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 rue Th\u00e9odore Ozenne",
             "site": "Carmes",
-            "geo_point_2d": [43.5976850012, 1.44548900087],
+            "geo_point_2d": [
+                43.5976850012,
+                1.44548900087
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.445489000870145, 43.59768500117913]
+                "coordinates": [
+                    1.445489000870145,
+                    43.59768500117913
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44548900087, 43.5976850012]
+            "coordinates": [
+                1.44548900087,
+                43.5976850012
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -995,19 +1382,28 @@
             "commune": "TOULOUSE",
             "adresse": "All\u00e9e Charles de fitte",
             "site": "MATOU - Mus\u00e9e Affiche To",
-            "geo_point_2d": [43.5986890048, 1.43047600061],
+            "geo_point_2d": [
+                43.5986890048,
+                1.43047600061
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.430476000614033, 43.59868900482286]
+                "coordinates": [
+                    1.430476000614033,
+                    43.59868900482286
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43047600061, 43.5986890048]
+            "coordinates": [
+                1.43047600061,
+                43.5986890048
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1018,19 +1414,28 @@
             "commune": "TOULOUSE",
             "adresse": "Esplanade Compans Cafarelli",
             "site": "Gymnase Compans Cafarell",
-            "geo_point_2d": [43.6129699945, 1.43505600045],
+            "geo_point_2d": [
+                43.6129699945,
+                1.43505600045
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435056000453659, 43.61296999450141]
+                "coordinates": [
+                    1.435056000453659,
+                    43.61296999450141
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43505600045, 43.6129699945]
+            "coordinates": [
+                1.43505600045,
+                43.6129699945
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1041,19 +1446,28 @@
             "commune": "TOULOUSE",
             "adresse": "153 Avenue de Lardenne",
             "site": "Petit Capitole",
-            "geo_point_2d": [43.5924099996, 1.38966700556],
+            "geo_point_2d": [
+                43.5924099996,
+                1.38966700556
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.389667005559794, 43.59240999960582]
+                "coordinates": [
+                    1.389667005559794,
+                    43.59240999960582
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.38966700556, 43.5924099996]
+            "coordinates": [
+                1.38966700556,
+                43.5924099996
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1064,19 +1478,28 @@
             "commune": "TOULOUSE",
             "adresse": "Boulevard Andr\u00e9 Netwiller",
             "site": "Maison municipale des fa",
-            "geo_point_2d": [43.6416810021, 1.45338699363],
+            "geo_point_2d": [
+                43.6416810021,
+                1.45338699363
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.4533869936304, 43.641681002077476]
+                "coordinates": [
+                    1.4533869936304,
+                    43.641681002077476
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45338699363, 43.6416810021]
+            "coordinates": [
+                1.45338699363,
+                43.6416810021
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1087,19 +1510,28 @@
             "commune": "TOULOUSE",
             "adresse": "PL SAINT PIERRE",
             "site": "Saint-Pierre 3",
-            "geo_point_2d": [43.6032638899, 1.43612222195],
+            "geo_point_2d": [
+                43.6032638899,
+                1.43612222195
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.436122221951867, 43.60326388986752]
+                "coordinates": [
+                    1.436122221951867,
+                    43.60326388986752
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43612222195, 43.6032638899]
+            "coordinates": [
+                1.43612222195,
+                43.6032638899
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1110,19 +1542,28 @@
             "commune": "TOULOUSE",
             "adresse": "42 RUE D ALSACE LORRAINE",
             "site": "Alsace 4",
-            "geo_point_2d": [43.6063499993, 1.4457888871],
+            "geo_point_2d": [
+                43.6063499993,
+                1.4457888871
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44578888709841, 43.606349999308286]
+                "coordinates": [
+                    1.44578888709841,
+                    43.606349999308286
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4457888871, 43.6063499993]
+            "coordinates": [
+                1.4457888871,
+                43.6063499993
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1133,19 +1574,28 @@
             "commune": "TOULOUSE",
             "adresse": "cours dillon",
             "site": "Cours Dillon 1",
-            "geo_point_2d": [43.5929840014, 1.43514700107],
+            "geo_point_2d": [
+                43.5929840014,
+                1.43514700107
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435147001073256, 43.59298400140327]
+                "coordinates": [
+                    1.435147001073256,
+                    43.59298400140327
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43514700107, 43.5929840014]
+            "coordinates": [
+                1.43514700107,
+                43.5929840014
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1156,19 +1606,28 @@
             "commune": "TOULOUSE",
             "adresse": "cours dillon",
             "site": "Cours Dillon 3",
-            "geo_point_2d": [43.5973999998, 1.43712499662],
+            "geo_point_2d": [
+                43.5973999998,
+                1.43712499662
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.437124996618595, 43.597399999770886]
+                "coordinates": [
+                    1.437124996618595,
+                    43.597399999770886
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43712499662, 43.5973999998]
+            "coordinates": [
+                1.43712499662,
+                43.5973999998
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1179,19 +1638,28 @@
             "commune": "TOULOUSE",
             "adresse": "Allees Jules Guesde",
             "site": "Jules Guesdes 2",
-            "geo_point_2d": [43.5942861082, 1.44886111086],
+            "geo_point_2d": [
+                43.5942861082,
+                1.44886111086
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.448861110863886, 43.59428610819968]
+                "coordinates": [
+                    1.448861110863886,
+                    43.59428610819968
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44886111086, 43.5942861082]
+            "coordinates": [
+                1.44886111086,
+                43.5942861082
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1202,19 +1670,28 @@
             "commune": "TOULOUSE",
             "adresse": "35 all\u00e9es Jules Guesdes",
             "site": "Museum",
-            "geo_point_2d": [43.5938361074, 1.4492972175],
+            "geo_point_2d": [
+                43.5938361074,
+                1.4492972175
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.449297217501815, 43.59383610735223]
+                "coordinates": [
+                    1.449297217501815,
+                    43.59383610735223
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4492972175, 43.5938361074]
+            "coordinates": [
+                1.4492972175,
+                43.5938361074
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1225,19 +1702,28 @@
             "commune": "TOULOUSE",
             "adresse": "RPT MADAME DE MONDONVILLE",
             "site": "M\u00e9tronum",
-            "geo_point_2d": [43.6414694389, 1.45056110403],
+            "geo_point_2d": [
+                43.6414694389,
+                1.45056110403
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.45056110402508, 43.64146943891429]
+                "coordinates": [
+                    1.45056110402508,
+                    43.64146943891429
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45056110403, 43.6414694389]
+            "coordinates": [
+                1.45056110403,
+                43.6414694389
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1248,19 +1734,28 @@
             "commune": "TOULOUSE",
             "adresse": "39 all\u00e9es Jules Guesdes",
             "site": "Quai des savoirs",
-            "geo_point_2d": [43.5945638877, 1.45076944136],
+            "geo_point_2d": [
+                43.5945638877,
+                1.45076944136
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.45076944135893, 43.59456388767297]
+                "coordinates": [
+                    1.45076944135893,
+                    43.59456388767297
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45076944136, 43.5945638877]
+            "coordinates": [
+                1.45076944136,
+                43.5945638877
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1271,19 +1766,28 @@
             "commune": "TOULOUSE",
             "adresse": "place march\u00e9 aux cochons",
             "site": "Biblioth\u00e8que des Minimes",
-            "geo_point_2d": [43.6204250042, 1.43461666452],
+            "geo_point_2d": [
+                43.6204250042,
+                1.43461666452
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.434616664522709, 43.62042500417322]
+                "coordinates": [
+                    1.434616664522709,
+                    43.62042500417322
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43461666452, 43.6204250042]
+            "coordinates": [
+                1.43461666452,
+                43.6204250042
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1294,19 +1798,28 @@
             "commune": "TOULOUSE",
             "adresse": "6 Rue Ren\u00e9 Leduc",
             "site": "Marengo Boulevard",
-            "geo_point_2d": [43.6111888913, 1.45610277958],
+            "geo_point_2d": [
+                43.6111888913,
+                1.45610277958
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.456102779576243, 43.611188891301225]
+                "coordinates": [
+                    1.456102779576243,
+                    43.611188891301225
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45610277958, 43.6111888913]
+            "coordinates": [
+                1.45610277958,
+                43.6111888913
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1317,19 +1830,28 @@
             "commune": "TOULOUSE",
             "adresse": "place Pinel",
             "site": "Restaurant Social Provid",
-            "geo_point_2d": [43.6020972185, 1.46608056276],
+            "geo_point_2d": [
+                43.6020972185,
+                1.46608056276
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.466080562760895, 43.60209721851741]
+                "coordinates": [
+                    1.466080562760895,
+                    43.60209721851741
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.46608056276, 43.6020972185]
+            "coordinates": [
+                1.46608056276,
+                43.6020972185
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1340,19 +1862,28 @@
             "commune": "TOULOUSE",
             "adresse": "5 rue Francis Lopez",
             "site": "Restaurant Senior Croix",
-            "geo_point_2d": [43.6364222192, 1.46294999486],
+            "geo_point_2d": [
+                43.6364222192,
+                1.46294999486
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.462949994861565, 43.636422219170136]
+                "coordinates": [
+                    1.462949994861565,
+                    43.636422219170136
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.46294999486, 43.6364222192]
+            "coordinates": [
+                1.46294999486,
+                43.6364222192
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1363,19 +1894,28 @@
             "commune": "TOULOUSE",
             "adresse": "place du Capitole",
             "site": "Hotel de Ville - Capitol",
-            "geo_point_2d": [43.6048249947, 1.44422499889],
+            "geo_point_2d": [
+                43.6048249947,
+                1.44422499889
+            ],
             "annee_installation": 2014.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.444224998889904, 43.6048249946603]
+                "coordinates": [
+                    1.444224998889904,
+                    43.6048249946603
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44422499889, 43.6048249947]
+            "coordinates": [
+                1.44422499889,
+                43.6048249947
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1386,19 +1926,28 @@
             "commune": "TOULOUSE",
             "adresse": "17 place Jeanne D'Arc",
             "site": "Jeanne d'Arc",
-            "geo_point_2d": [43.6085359999, 1.44581899393],
+            "geo_point_2d": [
+                43.6085359999,
+                1.44581899393
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.445818993930917, 43.6085359999318]
+                "coordinates": [
+                    1.445818993930917,
+                    43.6085359999318
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44581899393, 43.6085359999]
+            "coordinates": [
+                1.44581899393,
+                43.6085359999
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1409,19 +1958,28 @@
             "commune": "TOULOUSE",
             "adresse": "Parvis St Jean Paul II",
             "site": "Saint Sernin",
-            "geo_point_2d": [43.6081260028, 1.44098500273],
+            "geo_point_2d": [
+                43.6081260028,
+                1.44098500273
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44098500272789, 43.60812600275186]
+                "coordinates": [
+                    1.44098500272789,
+                    43.60812600275186
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44098500273, 43.6081260028]
+            "coordinates": [
+                1.44098500273,
+                43.6081260028
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1432,19 +1990,28 @@
             "commune": "TOULOUSE",
             "adresse": "Carr\u00e9 de la Maourine",
             "site": "Maourine",
-            "geo_point_2d": [43.640281, 1.4526239985],
+            "geo_point_2d": [
+                43.640281,
+                1.4526239985
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.452623998504253, 43.64028099996101]
+                "coordinates": [
+                    1.452623998504253,
+                    43.64028099996101
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4526239985, 43.640281]
+            "coordinates": [
+                1.4526239985,
+                43.640281
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1455,19 +2022,28 @@
             "commune": "TOULOUSE",
             "adresse": "5 rue des Feuillants",
             "site": "Restaurant Senior St Cyp",
-            "geo_point_2d": [43.5959479943, 1.4345219992],
+            "geo_point_2d": [
+                43.5959479943,
+                1.4345219992
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.434521999201582, 43.59594799428786]
+                "coordinates": [
+                    1.434521999201582,
+                    43.59594799428786
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4345219992, 43.5959479943]
+            "coordinates": [
+                1.4345219992,
+                43.5959479943
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1478,19 +2054,28 @@
             "commune": "TOULOUSE",
             "adresse": "Avenue Maurice Bourges-Maun",
             "site": "Les jardins du Mus\u00e9um 2",
-            "geo_point_2d": [43.6323129996, 1.45198199988],
+            "geo_point_2d": [
+                43.6323129996,
+                1.45198199988
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.451981999883078, 43.63231299961455]
+                "coordinates": [
+                    1.451981999883078,
+                    43.63231299961455
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45198199988, 43.6323129996]
+            "coordinates": [
+                1.45198199988,
+                43.6323129996
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1501,19 +2086,28 @@
             "commune": "TOULOUSE",
             "adresse": "Promenade Henri Martin",
             "site": "Daurade 2",
-            "geo_point_2d": [43.6015569978, 1.43836099553],
+            "geo_point_2d": [
+                43.6015569978,
+                1.43836099553
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.438360995526907, 43.60155699775879]
+                "coordinates": [
+                    1.438360995526907,
+                    43.60155699775879
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43836099553, 43.6015569978]
+            "coordinates": [
+                1.43836099553,
+                43.6015569978
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1524,19 +2118,28 @@
             "commune": "TOULOUSE",
             "adresse": "10 Avenue des Mazades",
             "site": "Th\u00e9atre des Mazades",
-            "geo_point_2d": [43.6237819971, 1.4385320011],
+            "geo_point_2d": [
+                43.6237819971,
+                1.4385320011
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.438532001103368, 43.62378199714812]
+                "coordinates": [
+                    1.438532001103368,
+                    43.62378199714812
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4385320011, 43.6237819971]
+            "coordinates": [
+                1.4385320011,
+                43.6237819971
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1547,19 +2150,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 rue Delpech",
             "site": "Delpech",
-            "geo_point_2d": [43.6017960001, 1.44938899789],
+            "geo_point_2d": [
+                43.6017960001,
+                1.44938899789
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44938899788633, 43.60179600011907]
+                "coordinates": [
+                    1.44938899788633,
+                    43.60179600011907
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44938899789, 43.6017960001]
+            "coordinates": [
+                1.44938899789,
+                43.6017960001
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1570,19 +2182,28 @@
             "commune": "TOULOUSE",
             "adresse": "PL SAINT PIERRE",
             "site": "Saint-Pierre 1",
-            "geo_point_2d": [43.6036222173, 1.43521666664],
+            "geo_point_2d": [
+                43.6036222173,
+                1.43521666664
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.435216666639746, 43.603622217271806]
+                "coordinates": [
+                    1.435216666639746,
+                    43.603622217271806
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43521666664, 43.6036222173]
+            "coordinates": [
+                1.43521666664,
+                43.6036222173
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1593,19 +2214,28 @@
             "commune": "TOULOUSE",
             "adresse": "SQ GENERAL DE GAULLE",
             "site": "Square de Gaulle",
-            "geo_point_2d": [43.6045638917, 1.44521666735],
+            "geo_point_2d": [
+                43.6045638917,
+                1.44521666735
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.445216667354456, 43.60456389165361]
+                "coordinates": [
+                    1.445216667354456,
+                    43.60456389165361
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44521666735, 43.6045638917]
+            "coordinates": [
+                1.44521666735,
+                43.6045638917
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1616,19 +2246,28 @@
             "commune": "TOULOUSE",
             "adresse": "PL DU CAPITOLE",
             "site": "Capitole 1",
-            "geo_point_2d": [43.6046833246, 1.44388055707],
+            "geo_point_2d": [
+                43.6046833246,
+                1.44388055707
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.443880557072805, 43.60468332461842]
+                "coordinates": [
+                    1.443880557072805,
+                    43.60468332461842
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44388055707, 43.6046833246]
+            "coordinates": [
+                1.44388055707,
+                43.6046833246
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1639,19 +2278,28 @@
             "commune": "TOULOUSE",
             "adresse": "4 RUE D ALSACE LORRAINE",
             "site": "Alsace 1",
-            "geo_point_2d": [43.6015305641, 1.44574721993],
+            "geo_point_2d": [
+                43.6015305641,
+                1.44574721993
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44574721993208, 43.601530564146046]
+                "coordinates": [
+                    1.44574721993208,
+                    43.601530564146046
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44574721993, 43.6015305641]
+            "coordinates": [
+                1.44574721993,
+                43.6015305641
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1662,19 +2310,28 @@
             "commune": "TOULOUSE",
             "adresse": "Allees Jules Guesde",
             "site": "Jules Guesdes 3",
-            "geo_point_2d": [43.5938694406, 1.44782500016],
+            "geo_point_2d": [
+                43.5938694406,
+                1.44782500016
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.4478250001605, 43.59386944057869]
+                "coordinates": [
+                    1.4478250001605,
+                    43.59386944057869
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44782500016, 43.5938694406]
+            "coordinates": [
+                1.44782500016,
+                43.5938694406
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1685,19 +2342,28 @@
             "commune": "TOULOUSE",
             "adresse": "place Diebold",
             "site": "MDC St cyprien",
-            "geo_point_2d": [43.5978222178, 1.4301027791],
+            "geo_point_2d": [
+                43.5978222178,
+                1.4301027791
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.430102779100014, 43.59782221782948]
+                "coordinates": [
+                    1.430102779100014,
+                    43.59782221782948
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.4301027791, 43.5978222178]
+            "coordinates": [
+                1.4301027791,
+                43.5978222178
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1708,19 +2374,28 @@
             "commune": "TOULOUSE",
             "adresse": "place St Sernin",
             "site": "Mus\u00e9e Saint Raymond",
-            "geo_point_2d": [43.6077944451, 1.44114444448],
+            "geo_point_2d": [
+                43.6077944451,
+                1.44114444448
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.441144444477302, 43.60779444506859]
+                "coordinates": [
+                    1.441144444477302,
+                    43.60779444506859
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44114444448, 43.6077944451]
+            "coordinates": [
+                1.44114444448,
+                43.6077944451
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1731,19 +2406,28 @@
             "commune": "TOULOUSE",
             "adresse": "40 Avenue Jean Moulin",
             "site": "M\u00e9diath\u00e8que Empalot",
-            "geo_point_2d": [43.5788388922, 1.44183610977],
+            "geo_point_2d": [
+                43.5788388922,
+                1.44183610977
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.441836109769786, 43.578838892231644]
+                "coordinates": [
+                    1.441836109769786,
+                    43.578838892231644
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44183610977, 43.5788388922]
+            "coordinates": [
+                1.44183610977,
+                43.5788388922
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1754,19 +2438,28 @@
             "commune": "TOULOUSE",
             "adresse": "18 pl des JACOBINS",
             "site": "Mus\u00e9e des Jacobins",
-            "geo_point_2d": [43.6037361139, 1.43996667065],
+            "geo_point_2d": [
+                43.6037361139,
+                1.43996667065
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.43996667065356, 43.60373611386504]
+                "coordinates": [
+                    1.43996667065356,
+                    43.60373611386504
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43996667065, 43.6037361139]
+            "coordinates": [
+                1.43996667065,
+                43.6037361139
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1777,19 +2470,28 @@
             "commune": "TOULOUSE",
             "adresse": "18 rue du P\u00e9rigord",
             "site": "Biblioth\u00e8que Perigord",
-            "geo_point_2d": [43.6077416683, 1.44387222465],
+            "geo_point_2d": [
+                43.6077416683,
+                1.44387222465
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44387222465256, 43.607741668335834]
+                "coordinates": [
+                    1.44387222465256,
+                    43.607741668335834
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44387222465, 43.6077416683]
+            "coordinates": [
+                1.44387222465,
+                43.6077416683
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1800,19 +2502,28 @@
             "commune": "TOULOUSE",
             "adresse": "63 bis avenue de Saint Exup",
             "site": "St Exup\u00e9ry",
-            "geo_point_2d": [43.5856638886, 1.46607499629],
+            "geo_point_2d": [
+                43.5856638886,
+                1.46607499629
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.466074996289755, 43.58566388864935]
+                "coordinates": [
+                    1.466074996289755,
+                    43.58566388864935
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.46607499629, 43.5856638886]
+            "coordinates": [
+                1.46607499629,
+                43.5856638886
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1823,19 +2534,28 @@
             "commune": "TOULOUSE",
             "adresse": "63 rue R\u00e9clusane",
             "site": "Biblioth\u00e8que St cyprien",
-            "geo_point_2d": [43.5988277858, 1.43055556346],
+            "geo_point_2d": [
+                43.5988277858,
+                1.43055556346
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.430555563456044, 43.598827785805206]
+                "coordinates": [
+                    1.430555563456044,
+                    43.598827785805206
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43055556346, 43.5988277858]
+            "coordinates": [
+                1.43055556346,
+                43.5988277858
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1846,19 +2566,28 @@
             "commune": "TOULOUSE",
             "adresse": "19 rue de Cannes",
             "site": "Empalot",
-            "geo_point_2d": [43.5797444439, 1.44167500334],
+            "geo_point_2d": [
+                43.5797444439,
+                1.44167500334
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.44167500333654, 43.5797444438834]
+                "coordinates": [
+                    1.44167500333654,
+                    43.5797444438834
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44167500334, 43.5797444439]
+            "coordinates": [
+                1.44167500334,
+                43.5797444439
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1869,19 +2598,28 @@
             "commune": "TOULOUSE",
             "adresse": "17 rue de R\u00e9musat",
             "site": "salle du S\u00e9n\u00e9chal - R\u00e9mu",
-            "geo_point_2d": [43.6061777752, 1.44409444429],
+            "geo_point_2d": [
+                43.6061777752,
+                1.44409444429
+            ],
             "annee_installation": 2014.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.444094444285797, 43.6061777752352]
+                "coordinates": [
+                    1.444094444285797,
+                    43.6061777752352
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44409444429, 43.6061777752]
+            "coordinates": [
+                1.44409444429,
+                43.6061777752
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1892,19 +2630,28 @@
             "commune": "TOULOUSE",
             "adresse": "2 Passage Julien FORGUES",
             "site": "Mairie Pradettes",
-            "geo_point_2d": [43.5811027836, 1.38765000504],
+            "geo_point_2d": [
+                43.5811027836,
+                1.38765000504
+            ],
             "annee_installation": 2015.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.387650005044321, 43.581102783593884]
+                "coordinates": [
+                    1.387650005044321,
+                    43.581102783593884
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.38765000504, 43.5811027836]
+            "coordinates": [
+                1.38765000504,
+                43.5811027836
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1915,19 +2662,28 @@
             "commune": "TOULOUSE",
             "adresse": "6 Rue Ren\u00e9 Leduc",
             "site": "Toulouse M\u00e9tropole - Mar",
-            "geo_point_2d": [43.6112111121, 1.45604166896],
+            "geo_point_2d": [
+                43.6112111121,
+                1.45604166896
+            ],
             "annee_installation": 2014.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.456041668962337, 43.611211112064865]
+                "coordinates": [
+                    1.456041668962337,
+                    43.611211112064865
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45604166896, 43.6112111121]
+            "coordinates": [
+                1.45604166896,
+                43.6112111121
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1938,19 +2694,28 @@
             "commune": "TOULOUSE",
             "adresse": "15 Impasse Franz SCHRADER",
             "site": "Restaurant Senior La Ter",
-            "geo_point_2d": [43.5835444422, 1.48359166597],
+            "geo_point_2d": [
+                43.5835444422,
+                1.48359166597
+            ],
             "annee_installation": 2016.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.483591665969385, 43.583544442209735]
+                "coordinates": [
+                    1.483591665969385,
+                    43.583544442209735
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.48359166597, 43.5835444422]
+            "coordinates": [
+                1.48359166597,
+                43.5835444422
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1961,19 +2726,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 bis boulevard J, Michelet",
             "site": "Saint Aubin",
-            "geo_point_2d": [43.6035799994, 1.45442200131],
+            "geo_point_2d": [
+                43.6035799994,
+                1.45442200131
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.454422001309176, 43.60357999941851]
+                "coordinates": [
+                    1.454422001309176,
+                    43.60357999941851
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.45442200131, 43.6035799994]
+            "coordinates": [
+                1.45442200131,
+                43.6035799994
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -1984,19 +2758,28 @@
             "commune": "TOULOUSE",
             "adresse": "all\u00e9es Charles de Fitte",
             "site": "Jardin Raymond VI",
-            "geo_point_2d": [43.5996020001, 1.42961900161],
+            "geo_point_2d": [
+                43.5996020001,
+                1.42961900161
+            ],
             "annee_installation": 2017.0,
             "disponibilite": "24h/24h (avec garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.429619001609737, 43.59960200013546]
+                "coordinates": [
+                    1.429619001609737,
+                    43.59960200013546
+                ]
             },
             "zone_emission": "ext\u00e9rieur",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.42961900161, 43.5996020001]
+            "coordinates": [
+                1.42961900161,
+                43.5996020001
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2007,19 +2790,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 Place des GLIERES",
             "site": "Mairie Lafourguette",
-            "geo_point_2d": [43.5648089966, 1.41078499422],
+            "geo_point_2d": [
+                43.5648089966,
+                1.41078499422
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.41078499422344, 43.56480899656847]
+                "coordinates": [
+                    1.41078499422344,
+                    43.56480899656847
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.41078499422, 43.5648089966]
+            "coordinates": [
+                1.41078499422,
+                43.5648089966
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2030,19 +2822,28 @@
             "commune": "TOULOUSE",
             "adresse": "125 avenue de Muret",
             "site": "Mairie Croix de Pierre",
-            "geo_point_2d": [43.5846439974, 1.42765200025],
+            "geo_point_2d": [
+                43.5846439974,
+                1.42765200025
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.427652000254432, 43.58464399737348]
+                "coordinates": [
+                    1.427652000254432,
+                    43.58464399737348
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.42765200025, 43.5846439974]
+            "coordinates": [
+                1.42765200025,
+                43.5846439974
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2053,19 +2854,28 @@
             "commune": "TOULOUSE",
             "adresse": "2 Rue Sentenac",
             "site": "Mairie St Martin du Touc",
-            "geo_point_2d": [43.6096770008, 1.38001000363],
+            "geo_point_2d": [
+                43.6096770008,
+                1.38001000363
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.380010003633551, 43.609677000764925]
+                "coordinates": [
+                    1.380010003633551,
+                    43.609677000764925
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.38001000363, 43.6096770008]
+            "coordinates": [
+                1.38001000363,
+                43.6096770008
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2076,19 +2886,28 @@
             "commune": "TOULOUSE",
             "adresse": "Place d'EMPALOT",
             "site": "Mairie Empalot",
-            "geo_point_2d": [43.577619997, 1.44011600262],
+            "geo_point_2d": [
+                43.577619997,
+                1.44011600262
+            ],
             "annee_installation": 2018.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.440116002619128, 43.577619997040344]
+                "coordinates": [
+                    1.440116002619128,
+                    43.577619997040344
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.44011600262, 43.577619997]
+            "coordinates": [
+                1.44011600262,
+                43.577619997
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2099,19 +2918,28 @@
             "commune": "TOULOUSE",
             "adresse": "1 all\u00e9e Gabriel Bi\u00e9n\u00e8s",
             "site": "Stadium",
-            "geo_point_2d": [43.584085996, 1.43452699833],
+            "geo_point_2d": [
+                43.584085996,
+                1.43452699833
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.434526998326134, 43.58408599601952]
+                "coordinates": [
+                    1.434526998326134,
+                    43.58408599601952
+                ]
             },
             "zone_emission": "int\u00e9rieur et ext\u00e9r",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.43452699833, 43.584085996]
+            "coordinates": [
+                1.43452699833,
+                43.584085996
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2122,19 +2950,28 @@
             "commune": "TOULOUSE",
             "adresse": "2 place sauvegrain",
             "site": "Mairie de quartier Larde",
-            "geo_point_2d": [43.589129003, 1.37857700276],
+            "geo_point_2d": [
+                43.589129003,
+                1.37857700276
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.378577002763432, 43.589129002971326]
+                "coordinates": [
+                    1.378577002763432,
+                    43.589129002971326
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.37857700276, 43.589129003]
+            "coordinates": [
+                1.37857700276,
+                43.589129003
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     },
@@ -2145,19 +2982,28 @@
             "commune": "TOULOUSE",
             "adresse": "37 rue du Lot",
             "site": "biblioth\u00e8que St Exupery",
-            "geo_point_2d": [43.580155, 1.41195300057],
+            "geo_point_2d": [
+                43.580155,
+                1.41195300057
+            ],
             "annee_installation": 2019.0,
             "disponibilite": "24h/24h (sans garantie de service)",
             "geo_shape": {
                 "type": "Point",
-                "coordinates": [1.411953000565256, 43.58015500001943]
+                "coordinates": [
+                    1.411953000565256,
+                    43.58015500001943
+                ]
             },
             "zone_emission": "int\u00e9rieur b\u00e2timent",
             "nom_connexion": "_Toulouse_wifi"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [1.41195300057, 43.580155]
+            "coordinates": [
+                1.41195300057,
+                43.580155
+            ]
         },
         "record_timestamp": "2020-04-01T07:01:40.873+02:00"
     }

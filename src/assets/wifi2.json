@@ -1,0 +1,3010 @@
+[
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "8133457d931ccdd2054a963f8f3998019899aa20",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL SAINT PIERRE",
+            "site": "Saint-Pierre 1",
+            "geo_point_2d": [
+                43.6036222173,
+                1.43521666664
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435216666639746,
+                    43.603622217271806
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43521666664,
+                43.6036222173
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "b4cd9cff5bc64dc5991349b44bbb5c91a4197d81",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "SQ GENERAL DE GAULLE",
+            "site": "Square de Gaulle",
+            "geo_point_2d": [
+                43.6045638917,
+                1.44521666735
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.445216667354456,
+                    43.60456389165361
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44521666735,
+                43.6045638917
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "7f54e1f0d75eea34a5f4f8dc63e340cb6c1ca111",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL DU CAPITOLE",
+            "site": "Capitole 1",
+            "geo_point_2d": [
+                43.6046833246,
+                1.44388055707
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.443880557072805,
+                    43.60468332461842
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44388055707,
+                43.6046833246
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "40bbc6ac7d0b168258d56f4131222a5d02ea7066",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "4 RUE D ALSACE LORRAINE",
+            "site": "Alsace 1",
+            "geo_point_2d": [
+                43.6015305641,
+                1.44574721993
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44574721993208,
+                    43.601530564146046
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44574721993,
+                43.6015305641
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "29759f7c2a34d09607cca58cd1f9a2f6ca140f2f",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allees Jules Guesde",
+            "site": "Jules Guesdes 3",
+            "geo_point_2d": [
+                43.5938694406,
+                1.44782500016
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.4478250001605,
+                    43.59386944057869
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44782500016,
+                43.5938694406
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "af139d5f5f2da5c2a4dba5aaa3e186d6e89f6731",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place Diebold",
+            "site": "MDC St cyprien",
+            "geo_point_2d": [
+                43.5978222178,
+                1.4301027791
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.430102779100014,
+                    43.59782221782948
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4301027791,
+                43.5978222178
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "061f272b075d4389bcda28e73722f603582710a0",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place St Sernin",
+            "site": "Musée Saint Raymond",
+            "geo_point_2d": [
+                43.6077944451,
+                1.44114444448
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.441144444477302,
+                    43.60779444506859
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44114444448,
+                43.6077944451
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "8b8c660d474ac1f22e6db0f220a3868baf964107",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "40 Avenue Jean Moulin",
+            "site": "Médiathèque Empalot",
+            "geo_point_2d": [
+                43.5788388922,
+                1.44183610977
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.441836109769786,
+                    43.578838892231644
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44183610977,
+                43.5788388922
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "17e85483771777a22cd9b87e62be2a4586ab27bc",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "18 pl des JACOBINS",
+            "site": "Musée des Jacobins",
+            "geo_point_2d": [
+                43.6037361139,
+                1.43996667065
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.43996667065356,
+                    43.60373611386504
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43996667065,
+                43.6037361139
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ee2d35fd2d64c2507cf601d1496148b02cfc06b6",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "18 rue du Périgord",
+            "site": "Bibliothèque Perigord",
+            "geo_point_2d": [
+                43.6077416683,
+                1.44387222465
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44387222465256,
+                    43.607741668335834
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44387222465,
+                43.6077416683
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "156a2ab603fedda96a41f27129684d713e1a4f82",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "63 bis avenue de Saint Exup",
+            "site": "St Exupéry",
+            "geo_point_2d": [
+                43.5856638886,
+                1.46607499629
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.466074996289755,
+                    43.58566388864935
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.46607499629,
+                43.5856638886
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "12e6dfd3aac3ab0ffdb6b694196c6c8a77ec0d51",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "63 rue Réclusane",
+            "site": "Bibliothèque St cyprien",
+            "geo_point_2d": [
+                43.5988277858,
+                1.43055556346
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.430555563456044,
+                    43.598827785805206
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43055556346,
+                43.5988277858
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "f1ac789b264e78282967a5b41b64014452055692",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "19 rue de Cannes",
+            "site": "Empalot",
+            "geo_point_2d": [
+                43.5797444439,
+                1.44167500334
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44167500333654,
+                    43.5797444438834
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44167500334,
+                43.5797444439
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "43d7cea8f59e5581e8b9c39c8dc403e8d258fe72",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "17 rue de Rémusat",
+            "site": "salle du Sénéchal - Rému",
+            "geo_point_2d": [
+                43.6061777752,
+                1.44409444429
+            ],
+            "annee_installation": 2014,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.444094444285797,
+                    43.6061777752352
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44409444429,
+                43.6061777752
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "0067f24f93f9dae8cdc44dbcfadda026d9826a2c",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "2 Passage Julien FORGUES",
+            "site": "Mairie Pradettes",
+            "geo_point_2d": [
+                43.5811027836,
+                1.38765000504
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.387650005044321,
+                    43.581102783593884
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.38765000504,
+                43.5811027836
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "96b350f6234872688fec48ad0c9341297647b894",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "6 Rue René Leduc",
+            "site": "Toulouse Métropole - Mar",
+            "geo_point_2d": [
+                43.6112111121,
+                1.45604166896
+            ],
+            "annee_installation": 2014,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.456041668962337,
+                    43.611211112064865
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45604166896,
+                43.6112111121
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "26cb2021dc52efff9f7e36104706654c4a012710",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "15 Impasse Franz SCHRADER",
+            "site": "Restaurant Senior La Ter",
+            "geo_point_2d": [
+                43.5835444422,
+                1.48359166597
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.483591665969385,
+                    43.583544442209735
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.48359166597,
+                43.5835444422
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "c58e265988cac70b029f912fa71e5ddc6aeec3e4",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 bis boulevard J, Michelet",
+            "site": "Saint Aubin",
+            "geo_point_2d": [
+                43.6035799994,
+                1.45442200131
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.454422001309176,
+                    43.60357999941851
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45442200131,
+                43.6035799994
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "cfdacd85657b54fbe3934e9efa27a4bb3ab2441c",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "allées Charles de Fitte",
+            "site": "Jardin Raymond VI",
+            "geo_point_2d": [
+                43.5996020001,
+                1.42961900161
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.429619001609737,
+                    43.59960200013546
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.42961900161,
+                43.5996020001
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "a881a6f760349544db1f8f3cb7af7251c5e1b352",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 Place des GLIERES",
+            "site": "Mairie Lafourguette",
+            "geo_point_2d": [
+                43.5648089966,
+                1.41078499422
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.41078499422344,
+                    43.56480899656847
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.41078499422,
+                43.5648089966
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "60f1cd8e5c5f8b3c9a8ad00f2c657ff770f02abc",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "125 avenue de Muret",
+            "site": "Mairie Croix de Pierre",
+            "geo_point_2d": [
+                43.5846439974,
+                1.42765200025
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.427652000254432,
+                    43.58464399737348
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.42765200025,
+                43.5846439974
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "c8e30ba54e263fa8bf75f2dd4f4fd74abec89d2b",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "2 Rue Sentenac",
+            "site": "Mairie St Martin du Touc",
+            "geo_point_2d": [
+                43.6096770008,
+                1.38001000363
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.380010003633551,
+                    43.609677000764925
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.38001000363,
+                43.6096770008
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "931df08dc1f2570c83434bc754422106385bbcf9",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Place d'EMPALOT",
+            "site": "Mairie Empalot",
+            "geo_point_2d": [
+                43.577619997,
+                1.44011600262
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.440116002619128,
+                    43.577619997040344
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44011600262,
+                43.577619997
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "486670f6818f7156375ff19d403606c4be8d34f5",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 allée Gabriel Biénès",
+            "site": "Stadium",
+            "geo_point_2d": [
+                43.584085996,
+                1.43452699833
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.434526998326134,
+                    43.58408599601952
+                ]
+            },
+            "zone_emission": "intérieur et extér",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43452699833,
+                43.584085996
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ccebec29617dc8d3076b934f94541c40ea5371e0",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "2 place sauvegrain",
+            "site": "Mairie de quartier Larde",
+            "geo_point_2d": [
+                43.589129003,
+                1.37857700276
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.378577002763432,
+                    43.589129002971326
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.37857700276,
+                43.589129003
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "7608f14db1bdee4653726fc372b7c4d8e8eec257",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "37 rue du Lot",
+            "site": "bibliothèque St Exupery",
+            "geo_point_2d": [
+                43.580155,
+                1.41195300057
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.411953000565256,
+                    43.58015500001943
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.41195300057,
+                43.580155
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ccf8be91429134072b6bc5d344e24cd99aaed23b",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL SAINT PIERRE",
+            "site": "Saint-Pierre 2",
+            "geo_point_2d": [
+                43.6037777813,
+                1.43596389043
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435963890425352,
+                    43.603777781325576
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43596389043,
+                43.6037777813
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "42adc37da25fce0cabfba0e6f1a4faaf3dc54922",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "56 RUE D ALSACE LORRAINE",
+            "site": "Alsace 3",
+            "geo_point_2d": [
+                43.6079166719,
+                1.44578056164
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.445780561641785,
+                    43.60791667191116
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44578056164,
+                43.6079166719
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "6287f7a4551922bb125edaccd8d2a067d69d4d14",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "20 RUE D ALSACE LORRAINE",
+            "site": "Alsace 2",
+            "geo_point_2d": [
+                43.6023444442,
+                1.44577499594
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.445774995940189,
+                    43.602344444234724
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44577499594,
+                43.6023444442
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "639bad0cce2d4bc1ad60d486380e4df868ad528a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL INTERIEURE SAINT CYPRIEN",
+            "site": "Saint-Cyprien",
+            "geo_point_2d": [
+                43.5977305547,
+                1.43133333666
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.43133333666203,
+                    43.597730554688795
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43133333666,
+                43.5977305547
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "79d1dbe1499b950f53f4c52114edaa2a5924f26f",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "cours dillon",
+            "site": "Cours Dillon 2",
+            "geo_point_2d": [
+                43.5953530004,
+                1.43613399427
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.436133994268159,
+                    43.59535300035583
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43613399427,
+                43.5953530004
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "60113f229e59576e3070220dab663e2ddb6e1bf8",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place arnaud Bernard",
+            "site": "Arnaud Bernard",
+            "geo_point_2d": [
+                43.6112694426,
+                1.43876389249
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.438763892493415,
+                    43.611269442570446
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43876389249,
+                43.6112694426
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "bb6deb47b83790134e168fcfd70420c8f689bb01",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "37 av Reynerie",
+            "site": "Bibliothèque Grand M",
+            "geo_point_2d": [
+                43.5673583293,
+                1.40060000389
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.400600003889051,
+                    43.567358329267826
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.40060000389,
+                43.5673583293
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "341dc73687769002331964b533200a142bcbc7f4",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "8 bis avenue du parc",
+            "site": "MDC Roseraie",
+            "geo_point_2d": [
+                43.6200277747,
+                1.47010556188
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.470105561882396,
+                    43.62002777465675
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.47010556188,
+                43.6200277747
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "b6ea3d49ddfc55b97e908e05cfe280619bfaec92",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 place Esquirol",
+            "site": "Esquirol 2",
+            "geo_point_2d": [
+                43.6003611092,
+                1.44381666696
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.443816666957565,
+                    43.60036110920892
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44381666696,
+                43.6003611092
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "09cf86b88b2f3314ec4bc3fb23ed181c02a30e89",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "8 rue du lieuteunant colone",
+            "site": "Salle Osète - Duranti",
+            "geo_point_2d": [
+                43.6034083345,
+                1.44683333284
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.446833332838662,
+                    43.603408334521106
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44683333284,
+                43.6034083345
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "12c0d34c7d0773de70f5fb343fd48ce0adc081da",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allée du Pdt F, Roosevelt",
+            "site": "Jaurès 1",
+            "geo_point_2d": [
+                43.6056560016,
+                1.44854199994
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.448541999940247,
+                    43.60565600156838
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44854199994,
+                43.6056560016
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "eb465afe2901fd13dfab01949619894e2a8296db",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place des Pradettes",
+            "site": "Pradettes",
+            "geo_point_2d": [
+                43.5814909952,
+                1.38812199485
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.388121994853366,
+                    43.58149099522055
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.38812199485,
+                43.5814909952
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "41e85fd62018301fa1acf092f785627d05d7f08b",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Rue du canon d'Arcole",
+            "site": "Palais des sports",
+            "geo_point_2d": [
+                43.6123870018,
+                1.43530199795
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435301997953726,
+                    43.612387001832396
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43530199795,
+                43.6123870018
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "2010823d4e64d84e32f8db829f120ecf5284372e",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "81 rue St Roch",
+            "site": "Maison des Associations",
+            "geo_point_2d": [
+                43.5774789978,
+                1.44417999653
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.444179996526596,
+                    43.57747899781794
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44417999653,
+                43.5774789978
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "9fb4d0b9025884cea8cc009f0f7969e9ffd07536",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "38, rue d'Aubuisson",
+            "site": "Espace diversités et la\\u00ef",
+            "geo_point_2d": [
+                43.6032880001,
+                1.45314400441
+            ],
+            "annee_installation": 2014,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.453144004414432,
+                    43.60328800011149
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45314400441,
+                43.6032880001
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "19453f796a75d729bd7f2d31bb72c621606ca7b9",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Avenue Maurice Bourges-Maun",
+            "site": "Les jardins du Muséum 1",
+            "geo_point_2d": [
+                43.6324090009,
+                1.45177699612
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.451776996121758,
+                    43.63240900092236
+                ]
+            },
+            "zone_emission": "intérieur et extér",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45177699612,
+                43.6324090009
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "7452e9b5f6c657b6d48336936171c58e7f338ce2",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "7 allées G. Biénès",
+            "site": "Salle Jean Mermoz",
+            "geo_point_2d": [
+                43.5851470043,
+                1.43582799443
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435827994425019,
+                    43.58514700432179
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43582799443,
+                43.5851470043
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "287b802d12251354d9a2d103ebbf7bcbcd1c2ad8",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "63 Chemin HEREDIA",
+            "site": "Centre animation Soupeta",
+            "geo_point_2d": [
+                43.6143830025,
+                1.47450199534
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.474501995341507,
+                    43.61438300253217
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.47450199534,
+                43.6143830025
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "db08c07de45256549897715a0b7d3c322d675c0b",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "5 Rue Paul Meriel",
+            "site": "MDC Centre - Mériel",
+            "geo_point_2d": [
+                43.6040509939,
+                1.44795999786
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.447959997864161,
+                    43.6040509938859
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44795999786,
+                43.6040509939
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "902a1789d37ea67421ec2e569683f38176b3236a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL DE LA DAURADE",
+            "site": "Daurade",
+            "geo_point_2d": [
+                43.6017138909,
+                1.43968888424
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.439688884239045,
+                    43.601713890882664
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43968888424,
+                43.6017138909
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "2f2a729d68235a2f16326c4f6c03f837eed25182",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL DU CAPITOLE",
+            "site": "Captiole 2",
+            "geo_point_2d": [
+                43.6042972236,
+                1.443972225
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.443972224996524,
+                    43.60429722357893
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.443972225,
+                43.6042972236
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "544f27e3cfde5197bcbac6e69609001e6dc8d788",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 ALL JACQUES CHABAN DELMAS",
+            "site": "Médiathèque José Cabanis",
+            "geo_point_2d": [
+                43.6101833257,
+                1.45585277227
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.455852772272201,
+                    43.61018332571465
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45585277227,
+                43.6101833257
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "f1f57616011facffbef0b9a3e8d0af846709ce88",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "30 RUE DE METZ",
+            "site": "Esquirol/Rue de Metz",
+            "geo_point_2d": [
+                43.6005009984,
+                1.44565399272
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44565399271881,
+                    43.60050099842557
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44565399272,
+                43.6005009984
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "98706995aef1265e121f145b00becb4480917787",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allees Jules Guesde",
+            "site": "Jules Guesdes 1",
+            "geo_point_2d": [
+                43.5950861064,
+                1.4514694385
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.451469438501729,
+                    43.595086106380684
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4514694385,
+                43.5950861064
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "5062f794c61ae5dfb7fc6d294dde436cf8a47262",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "allée Paul Feuga",
+            "site": "Lafourcade",
+            "geo_point_2d": [
+                43.5926666685,
+                1.44424167306
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.444241673056776,
+                    43.592666668547714
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44424167306,
+                43.5926666685
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "8eca85a52e3df29b996b1ac2cc330f5dfd2667ac",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place micoulaud",
+            "site": "Izard",
+            "geo_point_2d": [
+                43.6382972162,
+                1.44381944611
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.443819446108237,
+                    43.638297216173704
+                ]
+            },
+            "zone_emission": "intérieur et extér",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44381944611,
+                43.6382972162
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "20bd8ed04193c9cb7fa332d5807cb6c18f06fbc5",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place Dupuy",
+            "site": "Halle aux grains",
+            "geo_point_2d": [
+                43.5999055575,
+                1.45425277875
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.454252778752512,
+                    43.59990555751754
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45425277875,
+                43.5999055575
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "bbdb3c39acf894d48b908f942bbff294a3a44604",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "21 rue de Metz",
+            "site": "Musée des Augustins",
+            "geo_point_2d": [
+                43.6010361084,
+                1.44632499699
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.446324996986625,
+                    43.60103610843603
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44632499699,
+                43.6010361084
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "fc1689ecb402af13b25070fb64425209a35cb6c4",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Place André ABBAL",
+            "site": "Mairie Reynerie",
+            "geo_point_2d": [
+                43.5705805566,
+                1.40267500104
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.402675001040658,
+                    43.570580556558106
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.40267500104,
+                43.5705805566
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "c0f6da2009c424969dc49b72393e2e4bdbd6d38a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 rue Théodore Ozenne",
+            "site": "Carmes",
+            "geo_point_2d": [
+                43.5976850012,
+                1.44548900087
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.445489000870145,
+                    43.59768500117913
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44548900087,
+                43.5976850012
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "f600fe13f2674dde5a17c6b8e3b202b333ebf10f",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allée du Pdt F, Roosevelt",
+            "site": "Jaurès 2",
+            "geo_point_2d": [
+                43.6059079967,
+                1.44889699673
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.448896996733263,
+                    43.60590799665147
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44889699673,
+                43.6059079967
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "678c5b715006a8fe5ac8f34491ccc0ce45a2420a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allée Charles de fitte",
+            "site": "MATOU - Musée Affiche To",
+            "geo_point_2d": [
+                43.5986890048,
+                1.43047600061
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.430476000614033,
+                    43.59868900482286
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43047600061,
+                43.5986890048
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "862e1dd89ccdac81c10c81bf235004cbd525566a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "7 port St Sauveur",
+            "site": "Port Saint Sauveur",
+            "geo_point_2d": [
+                43.5957939968,
+                1.45585100133
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.455851001330049,
+                    43.59579399681219
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45585100133,
+                43.5957939968
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "06a34320e1318b307f16926b40672d27d3f4583a",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Esplanade Compans Cafarelli",
+            "site": "Gymnase Compans Cafarell",
+            "geo_point_2d": [
+                43.6129699945,
+                1.43505600045
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435056000453659,
+                    43.61296999450141
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43505600045,
+                43.6129699945
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "fabcca57c76cdcc38c2e2363f3b46b7d2adf16d5",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Place Anatole France",
+            "site": "Place Anatole France",
+            "geo_point_2d": [
+                43.606313995,
+                1.43860599798
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.438605997982554,
+                    43.6063139950146
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43860599798,
+                43.606313995
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "5c584e7329689eb5b0819f0f76c660a35d1de548",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "17 rue Bellegarde",
+            "site": "Centre culturel Bellegar",
+            "geo_point_2d": [
+                43.6086319983,
+                1.44443200481
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.444432004807761,
+                    43.60863199831566
+                ]
+            },
+            "zone_emission": "intérieur et extér",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44443200481,
+                43.6086319983
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "1ab1af233f4b1dc9e9e2bb3fde0e54a600a56b08",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "13 rue de la Pleau",
+            "site": "Musée Paul Dupuy",
+            "geo_point_2d": [
+                43.5969190002,
+                1.44689200442
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.446892004422136,
+                    43.59691900018422
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44689200442,
+                43.5969190002
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ea36ccf9588005cb9d6771c1e182c2a64e7c69d2",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "rue Yves Rouquette",
+            "site": "Accueil Jeunes Bordeblan",
+            "geo_point_2d": [
+                43.5826110015,
+                1.38881599541
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.388815995410672,
+                    43.58261100149156
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.38881599541,
+                43.5826110015
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "5565fb48569e1c5c8161c27411b987a4c698cb7f",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "71 rue du Taur",
+            "site": "Taur",
+            "geo_point_2d": [
+                43.6072540026,
+                1.44208500223
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.442085002229871,
+                    43.60725400263162
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44208500223,
+                43.6072540026
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "918ae818c93ecf61b2092ccd53ac806166fde0b8",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "153 Avenue de Lardenne",
+            "site": "Petit Capitole",
+            "geo_point_2d": [
+                43.5924099996,
+                1.38966700556
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.389667005559794,
+                    43.59240999960582
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.38966700556,
+                43.5924099996
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "6b0cc7a4a6824210ac0d1cf76916143b02c4f945",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Boulevard André Netwiller",
+            "site": "Maison municipale des fa",
+            "geo_point_2d": [
+                43.6416810021,
+                1.45338699363
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.4533869936304,
+                    43.641681002077476
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45338699363,
+                43.6416810021
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "dbefec3633e52bef4f8d6efa88366f6ca8e5d427",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "3 rue de Tarfaya",
+            "site": "B612 - centre de l'innov",
+            "geo_point_2d": [
+                43.5632709958,
+                1.48810100308
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.488101003081482,
+                    43.563270995754706
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.48810100308,
+                43.5632709958
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "8682c8fbe49a1dfa7b284a539e851b4a99ccda28",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "PL SAINT PIERRE",
+            "site": "Saint-Pierre 3",
+            "geo_point_2d": [
+                43.6032638899,
+                1.43612222195
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.436122221951867,
+                    43.60326388986752
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43612222195,
+                43.6032638899
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ebb89ac6f4be2dfa96dcb6865a0e4b120c783593",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "42 RUE D ALSACE LORRAINE",
+            "site": "Alsace 4",
+            "geo_point_2d": [
+                43.6063499993,
+                1.4457888871
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44578888709841,
+                    43.606349999308286
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4457888871,
+                43.6063499993
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "cbc73a6666d1eed2933e27bb783f07b6559740ea",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "cours dillon",
+            "site": "Cours Dillon 1",
+            "geo_point_2d": [
+                43.5929840014,
+                1.43514700107
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.435147001073256,
+                    43.59298400140327
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43514700107,
+                43.5929840014
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "324a632d02cbbcccb1e7d4ace663db66155fd1cd",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "cours dillon",
+            "site": "Cours Dillon 3",
+            "geo_point_2d": [
+                43.5973999998,
+                1.43712499662
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.437124996618595,
+                    43.597399999770886
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43712499662,
+                43.5973999998
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "ca687cca6020a0bf707fd67597ef43de06db2ba6",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Allees Jules Guesde",
+            "site": "Jules Guesdes 2",
+            "geo_point_2d": [
+                43.5942861082,
+                1.44886111086
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.448861110863886,
+                    43.59428610819968
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44886111086,
+                43.5942861082
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "a19c68c468c119a92a6834cfdc2e5473cc025e4e",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "35 allées Jules Guesdes",
+            "site": "Museum",
+            "geo_point_2d": [
+                43.5938361074,
+                1.4492972175
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.449297217501815,
+                    43.59383610735223
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4492972175,
+                43.5938361074
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "6f59c102cad35ae5e6e3865908a09f203a022ab0",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "RPT MADAME DE MONDONVILLE",
+            "site": "Métronum",
+            "geo_point_2d": [
+                43.6414694389,
+                1.45056110403
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.45056110402508,
+                    43.64146943891429
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45056110403,
+                43.6414694389
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "1106b5c084bdac4b2c43c624f872f45cd60d7497",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "39 allées Jules Guesdes",
+            "site": "Quai des savoirs",
+            "geo_point_2d": [
+                43.5945638877,
+                1.45076944136
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.45076944135893,
+                    43.59456388767297
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45076944136,
+                43.5945638877
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "3a8b7a1ad482f97a25f0aad7fc515468d4bf5aa2",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place marché aux cochons",
+            "site": "Bibliothèque des Minimes",
+            "geo_point_2d": [
+                43.6204250042,
+                1.43461666452
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.434616664522709,
+                    43.62042500417322
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43461666452,
+                43.6204250042
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "9325230b2c1371fce17581f00d4c3f4001f3523c",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "6 Rue René Leduc",
+            "site": "Marengo Boulevard",
+            "geo_point_2d": [
+                43.6111888913,
+                1.45610277958
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.456102779576243,
+                    43.611188891301225
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45610277958,
+                43.6111888913
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "3c79ef16ba6cac298d4dc52367c744bc2083088f",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place Pinel",
+            "site": "Restaurant Social Provid",
+            "geo_point_2d": [
+                43.6020972185,
+                1.46608056276
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.466080562760895,
+                    43.60209721851741
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.46608056276,
+                43.6020972185
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "e0313481148bd611eb86d6bb5acab5ba00d320a7",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "5 rue Francis Lopez",
+            "site": "Restaurant Senior Croix",
+            "geo_point_2d": [
+                43.6364222192,
+                1.46294999486
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.462949994861565,
+                    43.636422219170136
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.46294999486,
+                43.6364222192
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "adfe8a1aeece87db9195d594dfc57f0c15e01b2d",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "place du Capitole",
+            "site": "Hotel de Ville - Capitol",
+            "geo_point_2d": [
+                43.6048249947,
+                1.44422499889
+            ],
+            "annee_installation": 2014,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.444224998889904,
+                    43.6048249946603
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44422499889,
+                43.6048249947
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "bde1146ebb47e72d0241c8f0fd27ff6431cef990",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "17 place Jeanne D'Arc",
+            "site": "Jeanne d'Arc",
+            "geo_point_2d": [
+                43.6085359999,
+                1.44581899393
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.445818993930917,
+                    43.6085359999318
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44581899393,
+                43.6085359999
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "20930e5ed3d5cfa796ac021077e4623694793392",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Parvis St Jean Paul II",
+            "site": "Saint Sernin",
+            "geo_point_2d": [
+                43.6081260028,
+                1.44098500273
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44098500272789,
+                    43.60812600275186
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44098500273,
+                43.6081260028
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "6dc505fbadde94bd8ce687e694572ee93199f713",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Carré de la Maourine",
+            "site": "Maourine",
+            "geo_point_2d": [
+                43.640281,
+                1.4526239985
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.452623998504253,
+                    43.64028099996101
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4526239985,
+                43.640281
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "a32029fd5170446892c8675d07b5cc72155f292e",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "5 rue des Feuillants",
+            "site": "Restaurant Senior St Cyp",
+            "geo_point_2d": [
+                43.5959479943,
+                1.4345219992
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.434521999201582,
+                    43.59594799428786
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4345219992,
+                43.5959479943
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "c99111e1cdf489594a3a3b5677ce054ee2417d6d",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Avenue Maurice Bourges-Maun",
+            "site": "Les jardins du Muséum 2",
+            "geo_point_2d": [
+                43.6323129996,
+                1.45198199988
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.451981999883078,
+                    43.63231299961455
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45198199988,
+                43.6323129996
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "f416f1b57035a15386a60749595267cf5eca44cf",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Promenade Henri Martin",
+            "site": "Daurade 2",
+            "geo_point_2d": [
+                43.6015569978,
+                1.43836099553
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.438360995526907,
+                    43.60155699775879
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43836099553,
+                43.6015569978
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "3571707991320b8025a1c77628821c30a7cdcc86",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "10 Avenue des Mazades",
+            "site": "Théatre des Mazades",
+            "geo_point_2d": [
+                43.6237819971,
+                1.4385320011
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.438532001103368,
+                    43.62378199714812
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.4385320011,
+                43.6237819971
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "f09020a2d113323cac5c37a29707fb9a70d982d2",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "1 rue Delpech",
+            "site": "Delpech",
+            "geo_point_2d": [
+                43.6017960001,
+                1.44938899789
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.44938899788633,
+                    43.60179600011907
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44938899789,
+                43.6017960001
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "23b6cc4249314cfab2db9aa1d029c0149629e20b",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "6 rue St Jean",
+            "site": "Bibliothèque Fabre",
+            "geo_point_2d": [
+                43.5970055559,
+                1.44325832211
+            ],
+            "annee_installation": 2016,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.443258322113681,
+                    43.59700555588928
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.44325832211,
+                43.5970055559
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "3c1af34f15b22ffa5534b4500a981f4f92dce9a7",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "6 Avenue des Ecoles Jules J",
+            "site": "Théatre Jules Juilen",
+            "geo_point_2d": [
+                43.5741527808,
+                1.45320278526
+            ],
+            "annee_installation": 2015,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.453202785264897,
+                    43.57415278075246
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.45320278526,
+                43.5741527808
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "c7aefea033694ad91d0b9611f3dc18ae1f9d0cb0",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "Promenade Henri Martin",
+            "site": "Daurade 3",
+            "geo_point_2d": [
+                43.6010840026,
+                1.43903400457
+            ],
+            "annee_installation": 2017,
+            "disponibilite": "24h/24h (avec garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.439034004574326,
+                    43.60108400257225
+                ]
+            },
+            "zone_emission": "extérieur",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.43903400457,
+                43.6010840026
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "1f23b7a71d2a0dc20c27e3b938b69d6607309acc",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "76 allées Charles de Fitte",
+            "site": "Musée des abbatoirs",
+            "geo_point_2d": [
+                43.6008199994,
+                1.42927800106
+            ],
+            "annee_installation": 2018,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.42927800105825,
+                    43.60081999939645
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.42927800106,
+                43.6008199994
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    },
+    {
+        "datasetid": "bornes-wi-fi",
+        "recordid": "bb474632232d0ea6fbfaebcc847e441e12ed35a3",
+        "fields": {
+            "commune": "TOULOUSE",
+            "adresse": "11 alée du Vivarais",
+            "site": "Mairie de quartier Ancel",
+            "geo_point_2d": [
+                43.6185159941,
+                1.39799899571
+            ],
+            "annee_installation": 2019,
+            "disponibilite": "24h/24h (sans garantie de service)",
+            "geo_shape": {
+                "type": "Point",
+                "coordinates": [
+                    1.397998995714521,
+                    43.618515994071956
+                ]
+            },
+            "zone_emission": "intérieur bâtiment",
+            "nom_connexion": "_Toulouse_wifi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.39799899571,
+                43.6185159941
+            ]
+        },
+        "record_timestamp": "2020-08-01T07:04:19.517+02:00"
+    }
+]

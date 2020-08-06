@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import wifis from "../assets/wifi.json";
+import wifis from "../assets/wifi2.json";
 import L from "leaflet";
 import "leaflet-routing-machine";
 import "lrm-graphhopper";
