@@ -5,7 +5,7 @@
         <h2 class="title is-4 has-text-centered">Mentions légales</h2>
 
         <br />
-        <h2 class="title is-4">1. Présentation du site internet.</h2>
+        <h2 class="title is-4">1. Présentation du site internet et crédits.</h2>
         <p>
           En vertu de l'article 6 de la loi n° 2004-575 du 21 juin
           2004 pour la confiance dans l'économie numérique, il est
@@ -29,6 +29,8 @@
           Roubaix 1007
           <br />
           <strong>Base de donnée</strong> : Bornes Wi-Fi - Toulouse Métropole, 03/08/2020, sous license ODbL
+          <br/>
+          <strong>Photographie</strong> : "Toulouse - Garonne Waterfront" par Andrew Moore sous license CC BY-SA 2.0. 
         </p>
 
         <br />
